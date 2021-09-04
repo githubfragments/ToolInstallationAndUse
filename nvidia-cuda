@@ -1,0 +1,4 @@
+1. 安装cuda toolkit.run：Error opening terminal: xterm.错误的解决方法见链接：
+https://cxyzjd.com/article/u012335044/80334845
+export TERM=xterm
+export TERMINFO=/usr/share/terminfo
